@@ -17,7 +17,7 @@ body {
 .jumbotron {
     margin: 0 0;
     text-align: center;
-    background-image: url(docs/assets/img/ruler-inch.png);
+    background-image: url(img/ruler-inch.png);
     background-repeat: no-repeat;
     background-position: bottom;
     padding: 0 0 70px 0;
@@ -44,7 +44,7 @@ body {
 }
 
 .masthead{
-    background-image: url(docs/assets/img/ruler-cm.png);
+    background-image: url(img/ruler-cm.png);
     background-repeat: no-repeat;
     background-position: bottom;
     min-height: 75px;
